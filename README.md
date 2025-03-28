@@ -5,3 +5,6 @@
 [![Food-Suggestion-App](https://github.com/ST10490156/Food-Suggestion-App/edit/main/README.md)](www.github.com/ST10490156/Food-Suggestion-App/edit/main/README.md)
 
 ![image alt](https://github.com/ST10490156/Food-Suggestion-App/blob/a24b4e915eb44a5ac80b814e22082aed908636ab/Screenshot%202025-03-28%20161413.png)
+
+![image alt](https://github.com/ST10490156/Food-Suggestion-App/blob/9ad86b7e03ecce79e3a4aa0de9cb6146ac34881a/ScreenshOT%20TWO.png)
+
