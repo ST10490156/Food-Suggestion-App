@@ -1,0 +1,7 @@
+Assignment 1 IMAD5112
+
+This app was created with the purpose of simplifying meal according to the time of day. 
+
+The app was created with a linear layout of positioning the edit text was then manipulated to fit the width and height of the page, the id title of the edit text was also changed to fit the appropriate name. The button was implemented to display meal suggestions. The text view was edited to display suggestion depending on the input of the user val functions wherte then added on the MainActivity.kt page to implement the time input actions as well as the meal suggestions depending on whether it is AM or PM.
+
+A GitHub repository was then created in which the app file had been sent on, as well as the ReadMe file
