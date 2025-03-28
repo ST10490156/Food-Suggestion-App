@@ -8,3 +8,5 @@
 
 ![image alt](https://github.com/ST10490156/Food-Suggestion-App/blob/9ad86b7e03ecce79e3a4aa0de9cb6146ac34881a/ScreenshOT%20TWO.png)
 
+![image alt](https://github.com/ST10490156/Food-Suggestion-App/blob/78d10e803927c4321febee415dd1929b73b93922/Screenshot%203.png)
+
